@@ -2,7 +2,12 @@
 
 ZXROMEX is a "test project with a purpose". Its intended to replace
 some math functions in the ZX Spectrum with faster (and slightly less
-accurate) versions
+accurate) versions. The test part is that it was a test of Claude Code's
+capabilities. While i architected the works, Claude wrote all the code
+as i can not code in Z80 asm. That said, it performed well and managed to
+overcome the challenges working within my set restrictions.
+
+# The ROM itself:
 
 A patched Sinclair ZX Spectrum 48K ROM: every slow math primitive
 rewritten, the random-number generator replaced with a real algorithm,
