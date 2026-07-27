@@ -1,4 +1,6 @@
-MIT License
+Multipart license
+
+First part
 
 Copyright (c) 2026 NMMT76
 
@@ -12,6 +14,12 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+This applies ONLY to my own work, EXCLUDING the ROM itself and its .asm source code.
+
+Attribution is given, both for me and for every party listed in ZXROMEX_ATTRIBUTIONS.md
+
+While my work is under MIT, other's work is under their own rules, consult ZXROMEX_ATTRIBUTIONS.md for details.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
@@ -19,3 +27,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Second part
+
+The ROM and it's original source are Amstrad PLC and suject to their conditions,
+which, at the time of writing, come down to "can not be sold either as a chip or as
+part of hardware"
+
+Other's work was included, and they require (at least) attribution.
+
+Consult ZXROMEX_ATTRIBUTIONS.md for details on the third party licences and terms.
