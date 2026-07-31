@@ -11,7 +11,8 @@ overcome the challenges working within my set restrictions.
 
 A patched Sinclair ZX Spectrum 48K ROM: every slow math primitive
 rewritten, the random-number generator replaced with a real algorithm,
-`CIRCLE` rewritten from floating-point to integer math, a new `ADDR`
+`CIRCLE` rewritten from floating-point to integer math, a new LPRINT
+variant that acts as an `ADDR` function.
 BASIC function, ZX0 decompression callable from BASIC, and a
 programmer-managed line-address cache that measurably speeds up
 `GO TO`/`GO SUB`/`RETURN`/`NEXT` in real programs — all on a ROM that
@@ -120,6 +121,4 @@ against the source at packaging time.
 ## Loading
 
 `ZXROMEX_v1.5.bin` is a standard 16KB 48K ROM image, loadable in any
-emulator that accepts a custom ROM image (Fuse, etc.) or writable to
-real ROM-replacement hardware. It is a drop-in replacement for the
-stock 48K ROM.
+emulator that accepts a custom ROM image (Fuse, etc.) or equivalent.
